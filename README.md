@@ -37,4 +37,5 @@ fetchen und dann mergen).
 ## Gedanken
 
 Wem irgendwas auffällt, was er bemerkenswert findet, der kann das gerne
-im Unterordner `0gedanken` festhalten.
+im [zentralen Wiki](https://github.com/puppe/campingtrip/wiki)
+festhalten.
