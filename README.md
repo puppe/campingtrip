@@ -14,7 +14,7 @@ Aber ein paar Sachen will ich doch festlegen.
 
 * Jede Aufgabe soll in einer eigenen Datei stehen. Der Dateiname kann
   willkürlich gewählt werden.
-* In der ersten Zeile der Datei, soll der Titel der Aufgabe stehen.
+* In der ersten Zeile der Datei soll der Titel der Aufgabe stehen.
 * In der zweiten Zeile steht `o`, wenn die Aufgabe noch offen ist, oder
   `x`, wenn sie erledigt ist.
 * Ab der dritten Zeile können beliebige Notizen und Kommentare
