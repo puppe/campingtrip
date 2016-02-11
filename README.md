@@ -33,3 +33,8 @@ Im Wurzelverzeichnis liegt die Datei `0peers`. Dort sollte jeder die
 URL(s) seines Repositories eintragen. Die Idee ist, dass alle dann mehr
 oder weniger regelmäßig den master-Branch der übrigen Peers pullen (bzw.
 fetchen und dann mergen).
+
+## Gedanken
+
+Wem irgendwas auffällt, was er bemerkenswert findet, der kann das gerne
+im Unterordner `0gedanken` festhalten.
