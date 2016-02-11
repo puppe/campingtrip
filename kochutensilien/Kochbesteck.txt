@@ -1,3 +1,8 @@
 Kochbesteck
-o
-Dazu gehört formal ganz viel: Kochlöffel, Gemüse- und Fleischmesser, Sieb, Pfannenwender usw.
+o	Kochlöffel
+o	Gemüsemesser
+o	Fleischmesser
+o	Sieb
+o	Pfannenwender
+
+Ich riskiere jetzt mal ein paar Merge-Konflikte, sonst macht das Ganze ja keinen Spaß :-)
