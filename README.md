@@ -13,7 +13,7 @@ Aber ein paar Sachen will ich doch festlegen.
 ### Einfache Aufgaben
 
 * Jede Aufgabe soll in einer eigenen Datei stehen. Der Dateiname kann
-  willkürlich gewählt werden.
+  willkürlich gewählt werden, sollte aber auf `.txt` enden.
 * In der ersten Zeile der Datei soll der Titel der Aufgabe stehen.
 * In der zweiten Zeile steht `o`, wenn die Aufgabe noch offen ist, oder
   `x`, wenn sie erledigt ist.
@@ -24,12 +24,12 @@ Aber ein paar Sachen will ich doch festlegen.
 
 * Aufgaben können auch Unteraufgaben haben. Statt einer Datei, wird
   dafür ein Verzeichnis verwendet.
-* In dem Verzeichnis gibt es dann mindestens eine Datei `0dir`, in der Titel,
-  Erledigt-Status und Notizen der Aufgabe stehen.
+* In dem Verzeichnis gibt es dann mindestens eine Datei `0dir.txt`, in
+  der Titel, Erledigt-Status und Notizen der Aufgabe stehen.
 
 ## Liste von Peers
 
-Im Wurzelverzeichnis liegt die Datei `0peers`. Dort sollte jeder die
+Im Wurzelverzeichnis liegt die Datei `0peers.txt`. Dort sollte jeder die
 URL(s) seines Repositories eintragen. Die Idee ist, dass alle dann mehr
 oder weniger regelmäßig den master-Branch der übrigen Peers pullen (bzw.
 fetchen und dann mergen).
