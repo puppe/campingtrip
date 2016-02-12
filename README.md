@@ -39,3 +39,6 @@ fetchen und dann mergen).
 Wem irgendwas auffällt, was er bemerkenswert findet, der kann das gerne
 im [zentralen Wiki](https://github.com/puppe/campingtrip/wiki)
 festhalten.
+
+Wer etwas zur Diskussin stellen möchte, kann dazu den [zentralen
+Issue-Tracker](https://github.com/puppe/campingtrip/issues) verwenden.
