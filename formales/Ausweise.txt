@@ -1,0 +1,7 @@
+Ausweise
+o	Personalausweis
+o	optional Reisepaß
+o	Krankenversichertenkarte
+o	Führerschein
+o	Bootsführerschein (falls vorhanden)
+o	Jugendherbergsausweis (falls vorhanden)
