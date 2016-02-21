@@ -4,5 +4,7 @@ o	Gemüsemesser
 o	Fleischmesser
 o	Sieb
 o	Pfannenwender
+o	Messer mit Wellenschliff (für Brot und so)
+o	Käsemesser
 
 Ich riskiere jetzt mal ein paar Merge-Konflikte, sonst macht das Ganze ja keinen Spaß :-)
